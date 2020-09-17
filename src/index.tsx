@@ -1,13 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+
+
 //import App from './App';
 import Hello from "./components/Hello";
 import * as serviceWorker from "./serviceWorker";
 
 //ReactDOM.render(<App />, document.getElementById('root'));
 ReactDOM.render(
-  <Hello name="TypeScript" enthusiasmLevel={10} />,
+  <Hello name="TypeScript" enthusiasmLevel={3} />,
   document.getElementById("root") as HTMLElement
 );
 
