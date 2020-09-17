@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46c7f9f7-6c86-4621-95e8-5a0a4ac5eab6" name="Default Changelist" comment="Adding HW html file">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gz6wmi2amVep1oeVxrTPVTRTsM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Shared" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Shared" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c7f9f7-6c86-4621-95e8-5a0a4ac5eab6" name="Default Changelist" comment="" />
+      <created>1599105314826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599105314826</updated>
+      <workItem from="1599105315976" duration="4078000" />
+      <workItem from="1600318359324" duration="4049000" />
+      <workItem from="1600322440831" duration="384000" />
+      <workItem from="1600325300907" duration="61000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding HW html file">
+      <created>1599105930247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599105930247</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding HW html file">
+      <created>1599106088186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599106088186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding HW html file">
+      <created>1599107777388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599107777388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding HW html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding HW html file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="134" width="1480" height="816" key="DiffContextDialog" timestamp="1599107561295">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="100" y="134" width="1480" height="816" key="DiffContextDialog/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599107561295" />
+    <state width="1630" height="273" key="GridCell.Tab.0.bottom" timestamp="1600322407969">
+      <screen x="0" y="34" width="1680" height="1016" />
+    </state>
+    <state width="1630" height="273" key="GridCell.Tab.0.bottom/1680.0.1680.1050/0.34.1680.1016/1680.1050.1680.1050@0.34.1680.1016" timestamp="1600322407969" />
+    <state width="1630" height="262" key="GridCell.Tab.0.bottom/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599114125765" />
+    <state width="1630" height="273" key="GridCell.Tab.0.center" timestamp="1600322407969">
+      <screen x="0" y="34" width="1680" height="1016" />
+    </state>
+    <state width="1630" height="273" key="GridCell.Tab.0.center/1680.0.1680.1050/0.34.1680.1016/1680.1050.1680.1050@0.34.1680.1016" timestamp="1600322407969" />
+    <state width="1630" height="262" key="GridCell.Tab.0.center/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599114125764" />
+    <state width="1630" height="273" key="GridCell.Tab.0.left" timestamp="1600322407969">
+      <screen x="0" y="34" width="1680" height="1016" />
+    </state>
+    <state width="1630" height="273" key="GridCell.Tab.0.left/1680.0.1680.1050/0.34.1680.1016/1680.1050.1680.1050@0.34.1680.1016" timestamp="1600322407969" />
+    <state width="1630" height="262" key="GridCell.Tab.0.left/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599114125764" />
+    <state width="1630" height="273" key="GridCell.Tab.0.right" timestamp="1600322407969">
+      <screen x="0" y="34" width="1680" height="1016" />
+    </state>
+    <state width="1630" height="273" key="GridCell.Tab.0.right/1680.0.1680.1050/0.34.1680.1016/1680.1050.1680.1050@0.34.1680.1016" timestamp="1600322407969" />
+    <state width="1630" height="262" key="GridCell.Tab.0.right/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599114125764" />
+    <state x="435" y="277" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599107814149">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="435" y="277" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599107814149" />
+    <state x="375" y="188" width="615" height="578" key="find.popup" timestamp="1599108660260">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="375" y="188" width="615" height="578" key="find.popup/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599108660260" />
+    <state x="440" y="251" width="672" height="659" key="search.everywhere.popup" timestamp="1600322276776">
+      <screen x="0" y="34" width="1680" height="1016" />
+    </state>
+    <state x="440" y="251" width="672" height="659" key="search.everywhere.popup/1680.0.1680.1050/0.34.1680.1016/1680.1050.1680.1050@0.34.1680.1016" timestamp="1600322276776" />
+    <state x="503" y="257" width="672" height="678" key="search.everywhere.popup/1920.398.1920.1080/0.34.1920.1046/3840.0.1920.1080@0.34.1920.1046" timestamp="1599108496423" />
+  </component>
+</project>
